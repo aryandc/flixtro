@@ -20,10 +20,7 @@ Auto-layout is currently not used for all the view controller. Application works
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/DXtizZP.gif)
-
-
-
+![](https://i.imgur.com/zjtisjX.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
